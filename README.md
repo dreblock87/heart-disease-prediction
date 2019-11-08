@@ -9,9 +9,9 @@ Experiments with the Cleveland database have concentrated on simply attempting t
 Source: [UCI Cleveland Heart Disease](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
 ## Packages
-  * Pandas
-  * Seaborn
-  * Matplotlib
-  * Numpy
-  * Scikit-learn
+  * Pandas (data structures and data analysis)
+  * Seaborn (data visualization)
+  * Matplotlib (data visualization)
+  * Numpy (computing)
+  * Scikit-learn (data mining and data analysis)
   
