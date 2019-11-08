@@ -21,7 +21,7 @@ The analysis will be broken up into two sections. The first section will use exp
 
 The second section will utilize a Decision Tree, which is a classification algorithm of supervised learning. The Decision Tree will use a two-step process which involves learning and predicting whether a patient has heart disease or not. 
 
-
+![alt text](https://github.com/dreblock87/ClevelandHeartDisease/blob/master/Images/DecisionTree.png "Logo Title Text 1")
 
 
 ## Packages
