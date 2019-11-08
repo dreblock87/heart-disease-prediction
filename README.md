@@ -11,6 +11,7 @@ Source: [UCI Cleveland Heart Disease](https://archive.ics.uci.edu/ml/datasets/He
 1. **age**: age in years
 2. **sex**: sex (1 = male; 0 = female)
 3. **cp**: chest pain type
+
     -- Value 1: typical angina
     * Value 2: atypical angina
     * Value 3: non-anginal pain
