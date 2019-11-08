@@ -35,14 +35,14 @@ Source: [UCI Cleveland Heart Disease](https://archive.ics.uci.edu/ml/datasets/He
     * Value 6: fixed defect
     * Value 7: reversable defect
 14. **diagnosis**: severerity of heart disease (angiographic disease status)
-    * Value 0: Absent
-    * Value 1: Level 1 
-    * Value 2: Level 2 
-    * Value 3: Level 3
-    * Value 4: Level 4
+    * Value 0: absent
+    * Value 1: level 1 
+    * Value 2: level 2 
+    * Value 3: level 3
+    * Value 4: level 4
 15. **disease**: heart disease
-    * Value 0: No 
-    * Value 1: Yes
+    * Value 0: no 
+    * Value 1: yes
 
 ## Analysis
 The analysis will be broken up into two sections. The first section will use exploratory data analysis (EDA) to gain insights into the dataset, discover any structures within, extract variables that are important, detect any outliers or anomalies, and determine attributes should be used for the classification model. 
