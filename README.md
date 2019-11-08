@@ -1,5 +1,5 @@
 # Cleveland Heart Disease
-ALt-H1
+Alt-H1
 
 The goal of this project is to explore the Cleveland Heart Disease dataset and use machine learning to predict whether a patient has heart disease. 
 
